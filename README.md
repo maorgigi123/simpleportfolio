@@ -43,9 +43,11 @@ $ npm run dev
 ```
 Once your server has started, go to this url ` http://localhost:5173/` to see the portfolio locally. It should look like the below screenshot.
 
+
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
+  <img src="https://github.com/maorgigi123/simpleportfolio/examples/example.jpg" alt="Simplefolio" width="100%">
 </h2>
+
 
 ---
 
