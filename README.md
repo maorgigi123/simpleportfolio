@@ -45,7 +45,7 @@ Once your server has started, go to this url ` http://localhost:5173/` to see th
 
 
 <h2 align="center">
-  <img src="https://github.com/maorgigi123/simpleportfolio/examples/example.jpg" alt="Simplefolio" width="100%">
+  <img src="examples/portofiloImg.JPG" alt="Simplefolio" width="100%">
 </h2>
 
 
